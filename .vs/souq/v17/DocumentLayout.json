@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\souq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\models\\indexmv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\models\\indexmv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\home\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\home\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\home\\getproductsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\home\\getproductsbycategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\home\\sendreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\home\\sendreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\views\\home\\currentproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\views\\home\\currentproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|c:\\users\\dell\\source\\repos\\souq\\souq\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DD6BC82-BE41-4BE9-A588-BC97AE60AACD}|souq\\souq.csproj|solutionrelative:souq\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "souq\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "souq\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAAACkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T16:45:56.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "souq\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAAJwAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T19:58:29.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "souq\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeToolTip": "souq\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:48:24.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "souq\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "souq\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:11:58.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "souq\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "souq\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAgwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T15:51:25.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "souq\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeToolTip": "souq\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T16:48:01.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "souq\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "souq\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:41:15.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "indexMV.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Models\\indexMV.cs",
+              "RelativeDocumentMoniker": "souq\\Models\\indexMV.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Models\\indexMV.cs",
+              "RelativeToolTip": "souq\\Models\\indexMV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:41:30.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "souq\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Models\\Order.cs",
+              "RelativeToolTip": "souq\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:02:31.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "souq\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "souq\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T16:53:10.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "souq\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "souq\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T16:45:25.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Home\\AddOrder.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Home\\AddOrder.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Home\\AddOrder.cshtml",
+              "RelativeToolTip": "souq\\Views\\Home\\AddOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T20:20:56.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "souq\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T20:13:49.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "souq\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "souq\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:13:26.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Carts\\Index.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Carts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Carts\\Index.cshtml",
+              "RelativeToolTip": "souq\\Views\\Carts\\Index.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T19:44:22.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "souq\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T18:52:40.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "souq\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T16:22:41.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "souq\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T15:45:21.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetProductsByCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Home\\GetProductsByCategory.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Home\\GetProductsByCategory.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Home\\GetProductsByCategory.cshtml",
+              "RelativeToolTip": "souq\\Views\\Home\\GetProductsByCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T13:54:33.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "souq\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T16:30:32.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "souq\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T19:53:10.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SendReview.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Home\\SendReview.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Home\\SendReview.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Home\\SendReview.cshtml",
+              "RelativeToolTip": "souq\\Views\\Home\\SendReview.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T15:06:18.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "souq\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "souq\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAADUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:29:54.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "souq\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAkwIsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T19:41:14.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "souq\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T16:30:38.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "souq\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T16:30:21.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CurrentProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Home\\CurrentProduct.cshtml",
+              "RelativeDocumentMoniker": "souq\\Views\\Home\\CurrentProduct.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Views\\Home\\CurrentProduct.cshtml",
+              "RelativeToolTip": "souq\\Views\\Home\\CurrentProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T12:36:11.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "souq\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Models\\Product.cs",
+              "RelativeToolTip": "souq\\Models\\Product.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:34:11.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "souq\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\Models\\Review.cs",
+              "RelativeToolTip": "souq\\Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:07:57.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\appsettings.json",
+              "RelativeDocumentMoniker": "souq\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\souq\\souq\\appsettings.json",
+              "RelativeToolTip": "souq\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T12:22:39.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

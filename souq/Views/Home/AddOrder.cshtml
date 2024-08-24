@@ -1,0 +1,61 @@
+﻿
+@model IEnumerable<BestDesign.Models.Order>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<div class="bg-secondary text-center rounded p-4">
+    <div class="d-flex align-items-center justify-content-between mb-4">
+        <h6 class="mb-0">FAQs</h6>
+
+    </div>
+    <div class="table-responsive">
+        <table class="table text-start align-middle table-bordered table-hover mb-0">
+            <thead>
+                <tr class="text-white">
+
+                    <th scope="col"> @Html.DisplayNameFor(model => model.Address)</th>
+                    <th scope="col"> @Html.DisplayNameFor(model => model.Name)</th>
+                    <th scope="col"> @Html.DisplayNameFor(model => model.Email)</th>
+                    <th scope="col">  @Html.DisplayNameFor(model => model.Id)</th>
+                    <th scope="col">  @Html.DisplayNameFor(model => model.userId)</th>
+                    <th scope="col">  @Html.DisplayNameFor(model => model.productId)</th>
+
+                    <th></th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td> @Html.DisplayFor(modelItem => item.Address)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                        <td>@Html.DisplayFor(modelItem => item.userId)</td>
+                        <td>@Html.DisplayFor(modelItem => item.productId)</td>
+
+
+                        <td>
+
+
+
+                            <a class="btn btn-sm btn-info" asp-action="Details" asp-route-id="@item.Id">Details</a>
+
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
